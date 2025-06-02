@@ -1,5 +1,6 @@
 class Solution {
     public int averageValue(int[] nums) {
+        
       int sum = 0;
         int count = 0;
         
@@ -17,3 +18,4 @@ class Solution {
         return sum / count;   
     }
 }
+    
